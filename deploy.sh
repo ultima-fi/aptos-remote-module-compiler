@@ -1,0 +1,1 @@
+gcloud run deploy --region us-central1
